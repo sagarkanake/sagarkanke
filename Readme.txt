@@ -1,4 +1,4 @@
-Thanks for downloading this theme!
+Hi , I am sagar kanke
 
 Theme Name: DevFolio
 Theme URL: https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/
